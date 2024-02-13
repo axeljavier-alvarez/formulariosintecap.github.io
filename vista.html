@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrarse</title>        
+        <meta name="author" content="">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Overpass&display=swap" rel="stylesheet">
+
+        <!-- Link hacia el archivo de estilos css -->
+        <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+    <div align="left" class="edicion">
+        <a href="index.html">
+            
+
+            <img src="img/atras.png" alt="" width="100px">
+        </a>
+</div>
+        
+    
+
+    <div id="contenedor2">
+        
+        <div id="central">
+            <div id="login2">
+                <div class="titulo2">
+                    Ingresar información
+                    <hr>
+                </div>
+                
+                <form id="loginform">
+                    <!-- Nombre placeholder para borrar texto xd--> 
+                    <p>
+                        <label for="txt_nombre">
+                            <font color="#bbe1fa">
+                                Nombre(s)
+                            </font></label>
+                        <br>
+                        <input type="text" name="txt_nombre" id="txt_nombre" height="100"  style="width : 382px; height : 33px" placeholder="Nombres exactos, que incluya tildes">
+                    </p>
+                    <!-- Apellido --> 
+                    <p>
+                        <label for="txt_apellido">
+                            <font color="#bbe1fa">
+                                Apellido(s)
+                            </font>
+                        </label>
+                        <br>
+                        <input type="text" name="txt_apellido" id="txt_apellido" style="width : 382px; height : 33px"  placeholder="Ingrese sus apellidos">
+                    </p>
+                    <!-- Teléfono --> 
+                    <p>
+                        <label for="txt_telefono">
+                            <font color="#bbe1fa">
+                                Telefono
+                            </font>
+                        </label>
+                        <br>
+                        <input type="number" name="txt_telefono" id="txt_telefono" style="width : 382px; height : 33px"  placeholder="ingrese su número de télefono" >
+                    </p>
+
+                    <!-- Fecha de nacimiento --> 
+                    <p>
+                        <label for="txt_fecha">
+                            <font color="#bbe1fa">
+                                Fecha de nacimiento
+                            </font>
+                        </label>
+                        <br>
+                        <input type="date" name="txt_fecha" id="txt_fecha" style="width : 382px; height : 33px" >
+                    </p>
+
+                    <p>
+                        <font color="#bbe1fa">
+                            Generos
+                        </font>
+
+                            <br>
+                            <input type="radio" name="opt_genero" id="opt_genero_h">
+                            <label for="opt_genero">Hombre</label>
+                
+                            <input type="radio" name="opt_genero" id="opt_genero_m">
+                            <label for="opt_genero">Mujer</label>
+                
+                    </p>
+
+                    <p>
+                        <font color="#bbe1fa">
+
+                        Tus intereses
+                        </font>
+                        <br>
+                            <input type="checkbox" name="chk_intereses1" id="">
+                            <label for="chk_intereses">Educación</label>
+                            <br>
+                            <input type="checkbox" name="chk_intereses2" id="">
+                            <label for="chk_intereses">Deportes</label>
+                            <br>
+                            <input type="checkbox" name="chk_intereses3" id="">
+                            <label for="chk_intereses">Arte</label>
+                            <br>
+                            <input type="checkbox" name="chk_intereses4" id="">
+                            <label for="chk_intereses">Ocio</label>
+                    </p>
+
+                    <p>
+                        <label for="txt_correo">
+                            <font color="#bbe1fa">
+                                Correo electrónico
+                            </font>
+                        </label>
+                        <br>
+                        <input type="email" name="txt_correo" id="txt_correo" style="width : 382px; height : 33px">
+                        <br>
+
+                       
+                    </p>
+<br>
+
+
+
+    
+                </form>
+                
+                <button type="submit" title="registrate" name="registrate" onclick="location.href='index.html'">
+                    Actualizar
+                
+                </button>  
+               
+                
+                
+            </div>
+            
+        </div>
+        
+    </div>
+</body>
+</html>
