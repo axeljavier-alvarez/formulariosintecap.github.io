@@ -11,6 +11,6 @@ https://axeljavier-alvarez.github.io/formulariosintecap.github.io/index.html
 
 ## Developed with
 <p>
- <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="210" height="170" title="hover" align="left">
+ <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="190" height="155" title="hover" align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="190" height="185" title="hover text" align="left">
 </p>
