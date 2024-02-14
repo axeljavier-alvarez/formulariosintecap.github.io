@@ -1,10 +1,9 @@
 ### Features
 Project done in INTECAP part of the full stack development course, the proyect is about html and css aplication about:
-- input of links and videos.
-- make tables and enter information into tables
-- combine the cells of the tables.
-- define ordered and unordered lists.
-- create a form and add differents inputs, buttons and drop-down lists.
+- basic view of a login
+- register view including inputs of different types
+- forget my password view
+- references to return to the login page in every view
 
 
 ### Github page
