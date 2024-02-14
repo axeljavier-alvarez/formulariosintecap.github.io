@@ -10,7 +10,7 @@ Project done in INTECAP part of the full stack development course, the proyect i
 https://axeljavier-alvarez.github.io/formulariosintecap.github.io/index.html
 
 ## Developed with
-<p align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="330" title="hover" align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="190" height="185" title="hover text" align="center">
+<p>
+ <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="330" height="185" title="hover" align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="190" height="185" title="hover text" align="left">
 </p>
