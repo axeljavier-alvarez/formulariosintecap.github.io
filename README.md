@@ -1,9 +1,11 @@
 ### Features
-Project done in INTECAP part of the full stack development course, the proyect is about;
-- basic view of a login with html and css
-- register view including inputs of different types with html and css
-- forget my password view with html and css
-- references to return to the login page
+Project done in INTECAP part of the full stack development course, the proyect is about html and css aplication about:
+- input of links and videos.
+- make tables and enter information into tables
+- combine the cells of the tables.
+- define ordered and unordered lists.
+- create a form and add differents inputs, buttons and drop-down lists.
+
 
 ### Github page
 
