@@ -1,14 +1,14 @@
 ### Features
 Project done in INTECAP part of the full stack development course, the project is about:
-- basic view of a login
-- register view including inputs of different types
-- forget my password view
-- references to return to the login page in every view
+- view of products of a company
+- see locations through google maps
+- login view to register
+- see more details of the products
 
 
-### Github page
+### Website
 
-https://axeljavier-alvarez.github.io/formulariosintecap.github.io/index.html
+http://axjavierjavier.000.pe/aatjavalvarez/?i=1
 
 ## Developed with
 <p align=left>
