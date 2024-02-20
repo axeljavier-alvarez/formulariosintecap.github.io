@@ -1,5 +1,5 @@
 ### Features
-Project done in INTECAP part of the full stack development course, the proyect is about html and css aplication about:
+Project done in INTECAP part of the full stack development course, the project is about:
 - basic view of a login
 - register view including inputs of different types
 - forget my password view
