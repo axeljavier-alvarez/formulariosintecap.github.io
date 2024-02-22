@@ -1,14 +1,13 @@
 ### Features
 Project done in INTECAP part of the full stack development course, the project is about:
-- view of products of a company
-- see locations through google maps
-- login view to register
-- see more details of the products
+-Registration view made with html and css.
+-View of entering data and submit button.
+-View forget your password and submit button.
 
 
 ### Website
 
-http://axjavierjavier.000.pe/aatjavalvarez/?i=1
+http://axjavierjavier.000.pe/formsinte/
 
 ## Developed with
 <p align=left>
