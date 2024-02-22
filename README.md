@@ -1,8 +1,9 @@
 ### Features
 Project done in INTECAP part of the full stack development course, the project is about:
--Registration view made with html and css.
--View of entering data and submit button.
--View forget your password and submit button.
+- Registration view made with html and css.
+- View of entering data and submit button.
+- View about forget your password and submit button.
+
 
 
 ### Website
